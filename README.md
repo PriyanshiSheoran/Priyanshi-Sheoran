@@ -15,7 +15,7 @@ You bring the curiosity, I’ll bring the insights 📊💻
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://www.linkedin.com/in/priyanshi-sheoran-0078412b5/)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
  ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
